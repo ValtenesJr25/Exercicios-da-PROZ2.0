@@ -1,0 +1,22 @@
+body{
+  padding: 0px;
+  margin: 0;
+}
+header {
+  background-color: #2e2e2c;
+  padding: 1px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size:20px;
+	color: rgb(224, 240, 0);
+  
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  color:rgb(255, 230, 0);
+}
